@@ -1,0 +1,15 @@
+{
+  "name": "sample_project",
+  "version": "1.0.0",
+  "description": "just a sample to check the workflow. might delete later.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "BIKRAM-SAHA",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
